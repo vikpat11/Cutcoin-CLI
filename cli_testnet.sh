@@ -1,0 +1,1 @@
+./cutcoin-wallet-cli --testnet
